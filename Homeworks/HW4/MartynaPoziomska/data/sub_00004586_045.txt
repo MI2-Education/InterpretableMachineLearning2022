@@ -1,0 +1,7 @@
+CLINICAL HISTORY: 28 year old right handed male with seizures associated with hyperglycemia.
+MEDICATIONS: None
+INTRODUCTION: Digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel EKG. Hyperventilation and photic simulation are performed. This is an awake and drowsy record.
+DESCRIPTION OF THE RECORD: In wakefulness, there is an 11 Hz, 50 microvolt posterior dominant rhythm with a small amount of low voltage, fronto-central beta activity. Brief drowsiness is characterized by anterior spread of the alpha rhythm. Hyperventilation produces an increase in amplitude of the background. Photic stimulation elicits a driving response.
+HR: 66 bpm
+IMPRESSION: Normal EEG.
+CLINICAL CORRELATION: No focal or epileptiform features are observed in this EEG. This is the second normal EEG for this individual.
