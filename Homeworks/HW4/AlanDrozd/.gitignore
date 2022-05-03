@@ -1,0 +1,12 @@
+reports/figures/3
+reports/figures/4/*
+reports/figures/5/*
+
+!reports/figures/4/0_0.png
+!reports/figures/4/1_0.png
+
+!reports/figures/4/0_42.png
+!reports/figures/4/1_42.png
+
+!reports/figures/5/xgb_19.png
+!reports/figures/5/rf_19.png
