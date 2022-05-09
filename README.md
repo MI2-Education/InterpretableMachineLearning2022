@@ -47,7 +47,7 @@ Plan for the summer semester 2021/2022. UoW classes are on Fridays.
 * 2022-04-29  -- Interactive Explanatory Model Analysis - how instance level methods complement each other
 * 2022-05-04  -- Fairness or Model diagnostic plots.  
 * 2022-05-13  -- **Second checkpoint** - show your explanations and initial ideas for validation!
-* 2022-05-20  -- TCAV / ShapleyFlow / explanations specific to vision models
+* 2022-05-20  -- (will be shared later)
 * 2022-05-27  -- students presentations
 * 2022-06-03  -- students presentations
 * 2022-06-10  -- **Final presentation** - show your model, explanations and validation!
