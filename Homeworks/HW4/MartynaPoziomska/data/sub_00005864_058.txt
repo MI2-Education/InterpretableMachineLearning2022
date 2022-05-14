@@ -1,0 +1,17 @@
+CLINICAL HISTORY: Schizophrenia, memory loss.
+MEDICATIONS: Geodon, simvastatin, benztropine, Norvasc.
+INTRODUCTION: Digital video EEG is performed in the lab using standard 10-20
+system of electrode placement with 1 channel EKG. Hyperventilation and photic
+stimulation are performed. This is an awake and asleep record.
+DESCRIPTION OF THE RECORD: In wakefulness, background EEG is well organized
+with 10 hertz, 30-50 microvolt posterior dominant rhythm and a small amount of low
+voltage, frontocentral beta activity. Hyperventilation produces some artifact in the
+temporal electrodes. Features of drowsiness include slow rolling eye movements.
+Prolonged sleep includes vertex waves, spindles and POSTS.
+Photic stimulation elicits scant driving. Heart rate is 78 BPM.
+IMPRESSION: Normal EEG.
+CLINICAL CORRELATION: This prolonged outpatient sleep deprived EEG was
+remarkable for:
+1. Normal wakefulness through stage II sleep.
+2. No epileptiform features were seen. The artifacts described did not subtract from
+the study.
