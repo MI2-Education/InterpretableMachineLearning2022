@@ -16,3 +16,10 @@ https://arxiv.org/abs/2005.00497
 
 
 
+Solved:
+- Adrianna B
+- Krzysztof O
+- Michał N
+- Piotr S
+- Weronika S
+- Zuzanna K
