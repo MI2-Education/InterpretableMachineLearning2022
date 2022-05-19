@@ -89,7 +89,9 @@ Home works [0-30 points]
 
 Presentations can be prepared by one or two students. Each group should present a single XAI related paper (journal or conference). Each group should choose a different paper. Here are some suggestions.
 
-* Will be added soon
+* https://captum.ai/
+* https://github.com/understandable-machine-intelligence-lab/Quantus
+* https://aix360.mybluemix.net/
 
 # Literature
 
