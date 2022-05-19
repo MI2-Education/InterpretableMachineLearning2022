@@ -23,3 +23,4 @@ Solved:
 - Piotr S
 - Weronika S
 - Zuzanna K
+- Alan D
