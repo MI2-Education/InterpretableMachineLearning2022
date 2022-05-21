@@ -24,3 +24,6 @@ Solved:
 - Weronika S
 - Zuzanna K
 - Alan D
+- Kaj F
+- Kamil R
+
